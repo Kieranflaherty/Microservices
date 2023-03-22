@@ -1,0 +1,4 @@
+com\mycompany\rating\dao\RatingRepository.class
+com\mycompany\rating\RatingSpringApp.class
+com\mycompany\rating\entity\service\RatingService.class
+com\mycompany\rating\entity\Rating.class
